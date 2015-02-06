@@ -1,7 +1,7 @@
 Summary: New mail notification utility
 Name: kbiff
 Version: 4.0
-Release: %mkrel 1
+Release: 2
 Source0: http://prdownloads.sourceforge.net/kbiff/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Graphical desktop/KDE
