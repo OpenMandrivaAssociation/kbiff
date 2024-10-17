@@ -5,7 +5,7 @@ Release: 2
 Source0: http://prdownloads.sourceforge.net/kbiff/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Graphical desktop/KDE
-Url: http://www.kbiff.org/
+Url: https://www.kbiff.org/
 BuildRoot: %{_tmppath}/%{name}-buildroot
 BuildRequires: kdelibs4-devel
 
