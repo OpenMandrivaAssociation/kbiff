@@ -7,6 +7,7 @@ License: GPL
 Group: Graphical desktop/KDE
 Url: https://www.kbiff.org/
 BuildRoot: %{_tmppath}/%{name}-buildroot
+BuildRequires:	make
 BuildRequires: kdelibs4-devel
 
 %description
